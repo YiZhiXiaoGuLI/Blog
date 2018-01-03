@@ -29,9 +29,19 @@ date: 2017-10-07 19:24:06
 
 2017年9月-10月  赴成都华迪公司实习，学习ZigBee组网，安卓开发，STM32网关设计，TI的Zstack开发
 
+##### 在研项目
+
+|       研究项目       |            项目内容            | 完成进度 |
+| :--------------: | :------------------------: | :--: |
+| 《Python DSP处理》翻译 | LaTeX,Python,DSP,Translate |  ★   |
+
+
+
 ##### 联系方式
 
-​    邮箱：sunyanqinyin@aliyun.com   or  18331891019@qq.com
+   个人研究主页：http://www.jijitang.com/i
+
+​    邮箱：<u>sunyanqinyin@aliyun.com</u>   或   <u>18331891019@qq.com</u>
 
 ​    知乎：https://www.zhihu.com/people/sun-yan-90-29/activities
 
